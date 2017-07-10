@@ -1,0 +1,7 @@
+CloudBerryExplorerSetup_v5.0.3.66_netv4.0 
+putty 
+AmazonHiveODBC_1.1.1.1001 
+AginityRedshiftWorkbenchSetupx64 
+TableauDesktop-64bit-10-2-0 
+[?3/?30/?2017 12:14 PM] Desai, Bhimappa: 
+sbt-0.13.13 
